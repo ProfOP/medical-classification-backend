@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# ML artifacts
+*.h5
+*.pkl
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
